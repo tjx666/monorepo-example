@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-example",
+  "version": "1.0.0",
+  "description": "An example project to explore monorepo",
+  "main": "index.js",
+  "author": "YuTengjing",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

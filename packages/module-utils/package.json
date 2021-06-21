@@ -1,0 +1,8 @@
+{
+  "name": "@monorepo-example/module-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YuTengjing",
+  "license": "MIT",
+  "private": false
+}
